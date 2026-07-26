@@ -43,6 +43,3 @@ Generates a report containing important information about the Ubuntu Server.
 ## How do I run the scripts?
 
 First, navigate to the project directory:
-
-```bash
-cd /home/cloudadmin/scripts
