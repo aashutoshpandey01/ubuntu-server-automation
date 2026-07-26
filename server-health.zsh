@@ -15,6 +15,10 @@ echo "Server Uptime:"
 uptime
 echo
 
+echo "CPU Load:"
+uptime
+echo
+
 echo "SSH Status:"
 systemctl is-active ssh
 echo
